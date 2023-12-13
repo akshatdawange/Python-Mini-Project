@@ -1,2 +1,2 @@
-# Python-Mini-Project
-We have developed a snake game in Python as a part of our mini project in our second year of engineering at MITWPU, Pune. We developed the game using the Pygame module.
+# Python Mini Project
+Developed a basic snake game using python. Used for submission of Mini Project in 2nd year of undergraduation at MIT WPU, Pune
